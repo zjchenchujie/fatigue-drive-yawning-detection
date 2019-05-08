@@ -1,5 +1,6 @@
 # fatigue-drive-yawning-detection
-This repository is to create a fatigue drive detection algorithm via driver yawning recognition
+This repository is to create a fatigue drive detection algorithm via driver yawning recognition.  
+A detailed implementation of [This Repository](https://github.com/shengweigit/yawn_detection)
 
 ## 1. Demo
 ```python demo.py```
